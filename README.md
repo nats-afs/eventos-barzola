@@ -1,4 +1,4 @@
-# Freelancer Theme for Vuetify
+# Eventos Barzola Demo Web
 
 ## Project setup
 ```
