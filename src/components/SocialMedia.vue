@@ -6,12 +6,10 @@
       fab
       class="ma-2"
       :large="large"
+      :href="item.link"
       color="info"
     >
-      <v-icon
-        dark
-        v-text="item.icon"
-      />
+      <v-icon dark v-text="item.icon"/>
     </v-btn>
   </div>
 </template>
@@ -24,30 +22,30 @@ export default {
       default: false
     }
   },
-
   data: () => ({
     items: [
       {
-        name: 'Twitter',
-        icon: 'mdi-twitter'
+        name: "Twitter",
+        icon: "mdi-twitter",
       },
       {
-        name: 'Instagram',
-        icon: 'mdi-instagram'
+        name: "Instagram",
+        icon: "mdi-instagram"
       },
       {
-        name: 'Facebook',
-        icon: 'mdi-facebook'
+        name: "Facebook",
+        icon: "mdi-facebook",
+        link: "https://www.facebook.com/TortasBacilia/"
       },
       {
-        name: 'Email',
-        icon: 'mdi-email'
+        name: "Email",
+        icon: "mdi-email"
       },
       {
-        name: 'Phone',
-        icon: 'mdi-phone'
+        name: "Phone",
+        icon: "mdi-phone"
       }
     ]
   })
-}
+};
 </script>

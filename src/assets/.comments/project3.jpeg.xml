@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note/>
+  <place/>
+  <categories>
+    <category value="desk"/>
+    <category value="top"/>
+    <category value="view"/>
+    <category value="office"/>
+    <category value="laptop"/>
+    <category value="business"/>
+    <category value="white"/>
+    <category value="isolated"/>
+    <category value="desktop"/>
+    <category value="work"/>
+    <category value="technology"/>
+    <category value="computer"/>
+    <category value="accessories"/>
+    <category value="notebook"/>
+    <category value="notepad"/>
+    <category value="pencil"/>
+    <category value="black"/>
+    <category value="overhead"/>
+    <category value="above"/>
+    <category value="keyboard"/>
+    <category value="touchpad"/>
+    <category value="flower"/>
+    <category value="green"/>
+    <category value="plant"/>
+    <category value="copyspace"/>
+    <category value="copy"/>
+    <category value="space"/>
+    <category value="empty"/>
+    <category value="blank"/>
+    <category value="corporate"/>
+    <category value="finance"/>
+    <category value="planning"/>
+    <category value="modern"/>
+    <category value="supply"/>
+    <category value="background"/>
+    <category value="workplace"/>
+    <category value="workspace"/>
+    <category value="paperwork"/>
+    <category value="pc"/>
+    <category value="backdrop"/>
+    <category value="designer"/>
+    <category value="hipster"/>
+    <category value="table"/>
+  </categories>
+</comment>

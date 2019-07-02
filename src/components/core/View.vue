@@ -1,9 +1,9 @@
 <template>
   <div>
     <welcome />
+    <about-me />
     <recent-projects />
     <services />
-    <about-me />
     <get-in-touch />
   </div>
 </template>

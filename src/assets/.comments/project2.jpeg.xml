@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note/>
+  <place/>
+  <categories>
+    <category value="laptop"/>
+    <category value="table"/>
+    <category value="copy"/>
+    <category value="view"/>
+    <category value="hero"/>
+    <category value="blank"/>
+    <category value="mouse"/>
+    <category value="business"/>
+    <category value="internet"/>
+    <category value="workspace"/>
+    <category value="template"/>
+    <category value="notebook"/>
+    <category value="marketing"/>
+    <category value="top"/>
+    <category value="technology"/>
+    <category value="computer"/>
+    <category value="modern"/>
+    <category value="strategy"/>
+    <category value="desktop"/>
+    <category value="brand"/>
+    <category value="pc"/>
+    <category value="desk"/>
+    <category value="design"/>
+    <category value="responsive"/>
+    <category value="text"/>
+    <category value="above"/>
+    <category value="developer"/>
+    <category value="stationary"/>
+    <category value="empty"/>
+    <category value="keyboard"/>
+    <category value="iphone"/>
+    <category value="wooden"/>
+    <category value="workplace"/>
+    <category value="background"/>
+    <category value="work"/>
+    <category value="space"/>
+    <category value="note"/>
+    <category value="image"/>
+    <category value="office"/>
+    <category value="branding"/>
+    <category value="header"/>
+    <category value="hero header"/>
+    <category value="copy space"/>
+    <category value="smartphone"/>
+    <category value="mockup"/>
+  </categories>
+</comment>
